@@ -50,7 +50,6 @@ Visita el resto de repositorios!
 
 ## 📈 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hguarido55&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hguarido55&layout=compact&theme=radical)
 
 ---
