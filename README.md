@@ -21,6 +21,10 @@ Bienvenido/a a mi perfil de GitHub. Soy un/a apasionado/a por la tecnología, el
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
@@ -55,4 +59,3 @@ Visita el resto de repositorios!
 
 - 📧 Email: [hguarido@email.com]
 - 💼 LinkedIn: [[linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario](https://es.linkedin.com/in/hugo-guarido-dom%C3%ADnguez-307727279))
-- 
