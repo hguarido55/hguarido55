@@ -1,6 +1,6 @@
 # 👋 ¡Hola! 
 
-Bienvenido/a a mi perfil de GitHub. Soy un/a apasionado/a por la tecnología, el desarrollo de software y la innovación digital. Aquí encontrarás algunos de mis proyectos, tanto personales como académicos, donde exploro tecnologías modernas y resuelvo problemas reales con código.
+Bienvenido/a a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos, tanto personales como académicos, donde exploro tecnologías modernas y resuelvo problemas reales con código.
 
 ---
 
