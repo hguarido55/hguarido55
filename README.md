@@ -60,5 +60,5 @@ Visita el resto de repositorios!
 
 ## 📫 Contacto
 
-- 📧 Email: [hguarido@email.com]
-- 💼 LinkedIn: [[linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario](https://es.linkedin.com/in/hugo-guarido-dom%C3%ADnguez-307727279))
+- 📧 Email: [hguarido@gmail.com]
+- 💼 LinkedIn: [(https://linkedin.com/in/tuusuario](https://es.linkedin.com/in/hugo-guarido-dom%C3%ADnguez-307727279]
