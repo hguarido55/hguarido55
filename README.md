@@ -45,6 +45,9 @@ App en C# con ASP.NET para conectar voluntarios con ONGs, base de datos MySQL y 
 🔹 **[BeatSwipe](https://github.com/hguarido55/beatswipe)** *(en desarrollo)*  
 Plataforma web social para descubrir música mediante clips breves y swipe.
 
+🔹 **[StartupMatch](https://github.com/hguarido55/StartupMatch)** *(en desarrollo)*  
+Plataforma web desarrollada con el stack MERN (MongoDB, Express, React.js, Node.js) para conectar startups con desarrolladores y otras startups. Incluye autenticación segura con JWT, videollamadas y mensajería en tiempo real mediante la API de Stream, y está desplegada en Render para un acceso rápido y fiable.
+
 🔹 **[Arkanoid Z80](https://github.com/hguarido55/Arkanoid_Z80_Assembly)**  
 Juego tipo Arkanoid desarrollado en Assembly para Z80, ejecutado en emulador Spectrum.
 
